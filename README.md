@@ -1,43 +1,32 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+Rapikuzu;+I'm+a+lazy+person;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+RyezX;+I'm+a+lazy+person;" />
 </h1>
-### About Me :
-
-<p align="center">
-  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
-</p>
-
-<div class="text-lg leading-relaxed space-y-3">
-    <p>Hi, my name is <strong class="text-indigo-600">Afiq</strong>.</p>
-    <p>I'm from <strong class="text-indigo-600">Indonesia</strong>.</p>
-    <p>I'm often lazy, but always <strong class="text-indigo-600">learning</strong>!</p>
-    <p>My date of birth is April 18, 2009.</p>
-</div>
-
-<p align="center">
-  <a href="[https://github.com/Rapikz-kwontwol](https://github.com/Rapikz-kwontwol)"> <img  alt="Rapikuzu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rapikz-kwontwol?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+# 💫 About Me:
+Hello world👋<br>Perkenalkan nama saya Reza<br>Saya tinggal di Indonesia<br>Sekarang saya masih seorang pelajar<br><br>@RyezX<br>"Hanya seorang pelajar yang mengejar masa depan yang cerah"<br>
 
 
-<h2 align="center">📊 Stats</h2>
-  <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Rapikz-kwontwol&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Rapikz-kwontwol&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rapikz-kwontwol&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xvrezz_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zerrqt_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ryezxz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezzzyxz@gmail.com) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rezzxzx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rezzxzx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezzxzx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="50000" height="50000" src="https://github-profile-trophy.vercel.app/?username=Rapikz-kwontwol&no-bg=true&no-frame=false&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rezzxzx&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
-### My social media :
-<li><a href="https://t.me/AfiqAjah" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" class="rounded-md"></a></li>
-                    <li><a href="https://whatsapp.com/channel/0029VaoJb11LikgEpNpBty0e" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" class="rounded-md"></a></li>
-                    <li><a href="https://www.instagram.com/rapikuzu_desu/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" class="rounded-md"></a></li>
-                    <li><a href="https://github.com/Rapikz-kwontwol" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="rounded-md"></a></li>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rezzxzx&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=rezzxzx&icon=5&color=1)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ryezxz) 
 
-
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
