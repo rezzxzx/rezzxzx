@@ -2,7 +2,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+RyezX;+I'm+a+lazy+person;" />
 </h1>
-### 💫 About Me:
+
+<p align="center">
+  <img src="https://media.tenor.com/QRL_d1DsJ7AAAAAM/momoi-blue-archive.gif" />
+</p>
+
+# 💫 About Me:
 Hello world👋<br>Perkenalkan nama saya Reza<br>Saya tinggal di Indonesia<br>Sekarang saya masih seorang pelajar<br><br>@RyezX<br>"Hanya seorang pelajar yang mengejar masa depan yang cerah"<br>
 
 
