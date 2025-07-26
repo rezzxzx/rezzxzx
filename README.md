@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+I'm+RyezX;+I'm+a+lazy+person;" />
 </h1>
@@ -21,7 +20,6 @@ Hello world👋<br>Perkenalkan nama saya Reza<br>Saya tinggal di Indonesia<br>Se
 ![](https://nirzak-streak-stats.vercel.app/?user=rezzxzx&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezzxzx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rezzxzx&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
