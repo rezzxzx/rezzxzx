@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-Hello world👋<br>Perkenalkan nama saya Reza<br>Saya tinggal di Indonesia<br>Sekarang saya masih seorang pelajar<br><br>@RyezX<br>"Hanya seorang pelajar yang mengejar masa depan yang cerah"<br>
+Hello world👋<br>Perkenalkan nama saya Reza<br>Saya tinggal di Indonesia<br>Sekarang saya masih seorang pelajar<br><br>@RyezX<br>"????"<br>
 
 
 ## 🌐 Socials:
